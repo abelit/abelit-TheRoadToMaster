@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.24"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "abelit-theroadtomaster",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelit/abelit-TheRoadToMaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelit/abelit-TheRoadToMaster/issues"
+  },
+  "homepage": "https://github.com/abelit/abelit-TheRoadToMaster#readme"
+}
